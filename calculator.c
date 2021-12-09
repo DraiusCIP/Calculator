@@ -1,7 +1,3 @@
- 	 //\\
-        //18\\
-      //Sh1nIK\\
-
 #include <stdio.h>
 #include <stdlib.h>
 
