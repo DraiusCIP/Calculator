@@ -1,9 +1,9 @@
-#include <stdio.h>
-#include <stdlib.h>
-
-       	 //\\
+ 	 //\\
         //18\\
       //Sh1nIK\\
+
+#include <stdio.h>
+#include <stdlib.h>
 
 int main () {
 	int X;
